@@ -1,0 +1,17 @@
+.main {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.spanEle {
+  color: #c20a72;
+}
+.btn {
+  background-color: #007bff;
+  cursor: pointer;
+  outline: none;
+  color: #ffffff;
+  border: #007bff solid;
+}
